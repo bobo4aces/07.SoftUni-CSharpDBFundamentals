@@ -1,0 +1,11 @@
+D:\07.SoftUni-CSharpDBFundamentals\02. Databases Advanced - Entity Framework - 04. Code-First\Exercises\CodeFirstExercises\P01 HospitalDatabase\bin\Debug\netcoreapp2.1\P01 HospitalDatabase.deps.json
+D:\07.SoftUni-CSharpDBFundamentals\02. Databases Advanced - Entity Framework - 04. Code-First\Exercises\CodeFirstExercises\P01 HospitalDatabase\bin\Debug\netcoreapp2.1\P01 HospitalDatabase.runtimeconfig.json
+D:\07.SoftUni-CSharpDBFundamentals\02. Databases Advanced - Entity Framework - 04. Code-First\Exercises\CodeFirstExercises\P01 HospitalDatabase\bin\Debug\netcoreapp2.1\P01 HospitalDatabase.runtimeconfig.dev.json
+D:\07.SoftUni-CSharpDBFundamentals\02. Databases Advanced - Entity Framework - 04. Code-First\Exercises\CodeFirstExercises\P01 HospitalDatabase\bin\Debug\netcoreapp2.1\P01 HospitalDatabase.dll
+D:\07.SoftUni-CSharpDBFundamentals\02. Databases Advanced - Entity Framework - 04. Code-First\Exercises\CodeFirstExercises\P01 HospitalDatabase\obj\Debug\netcoreapp2.1\P01 HospitalDatabase.csprojAssemblyReference.cache
+D:\07.SoftUni-CSharpDBFundamentals\02. Databases Advanced - Entity Framework - 04. Code-First\Exercises\CodeFirstExercises\P01 HospitalDatabase\obj\Debug\netcoreapp2.1\P01 HospitalDatabase.csproj.CoreCompileInputs.cache
+D:\07.SoftUni-CSharpDBFundamentals\02. Databases Advanced - Entity Framework - 04. Code-First\Exercises\CodeFirstExercises\P01 HospitalDatabase\obj\Debug\netcoreapp2.1\P01 HospitalDatabase.AssemblyInfoInputs.cache
+D:\07.SoftUni-CSharpDBFundamentals\02. Databases Advanced - Entity Framework - 04. Code-First\Exercises\CodeFirstExercises\P01 HospitalDatabase\obj\Debug\netcoreapp2.1\P01 HospitalDatabase.AssemblyInfo.cs
+D:\07.SoftUni-CSharpDBFundamentals\02. Databases Advanced - Entity Framework - 04. Code-First\Exercises\CodeFirstExercises\P01 HospitalDatabase\bin\Debug\netcoreapp2.1\P01 HospitalDatabase.pdb
+D:\07.SoftUni-CSharpDBFundamentals\02. Databases Advanced - Entity Framework - 04. Code-First\Exercises\CodeFirstExercises\P01 HospitalDatabase\obj\Debug\netcoreapp2.1\P01 HospitalDatabase.dll
+D:\07.SoftUni-CSharpDBFundamentals\02. Databases Advanced - Entity Framework - 04. Code-First\Exercises\CodeFirstExercises\P01 HospitalDatabase\obj\Debug\netcoreapp2.1\P01 HospitalDatabase.pdb

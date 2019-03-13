@@ -1,0 +1,11 @@
+D:\07.SoftUni-CSharpDBFundamentals\02. Databases Advanced - Entity Framework - 05. Entity Relations\Exercises\EntityRelationsExercises\P01_StudentSystem\bin\Debug\netcoreapp2.1\P01_StudentSystem.deps.json
+D:\07.SoftUni-CSharpDBFundamentals\02. Databases Advanced - Entity Framework - 05. Entity Relations\Exercises\EntityRelationsExercises\P01_StudentSystem\bin\Debug\netcoreapp2.1\P01_StudentSystem.runtimeconfig.json
+D:\07.SoftUni-CSharpDBFundamentals\02. Databases Advanced - Entity Framework - 05. Entity Relations\Exercises\EntityRelationsExercises\P01_StudentSystem\bin\Debug\netcoreapp2.1\P01_StudentSystem.runtimeconfig.dev.json
+D:\07.SoftUni-CSharpDBFundamentals\02. Databases Advanced - Entity Framework - 05. Entity Relations\Exercises\EntityRelationsExercises\P01_StudentSystem\bin\Debug\netcoreapp2.1\P01_StudentSystem.dll
+D:\07.SoftUni-CSharpDBFundamentals\02. Databases Advanced - Entity Framework - 05. Entity Relations\Exercises\EntityRelationsExercises\P01_StudentSystem\obj\Debug\netcoreapp2.1\P01_StudentSystem.csproj.CoreCompileInputs.cache
+D:\07.SoftUni-CSharpDBFundamentals\02. Databases Advanced - Entity Framework - 05. Entity Relations\Exercises\EntityRelationsExercises\P01_StudentSystem\obj\Debug\netcoreapp2.1\P01_StudentSystem.AssemblyInfoInputs.cache
+D:\07.SoftUni-CSharpDBFundamentals\02. Databases Advanced - Entity Framework - 05. Entity Relations\Exercises\EntityRelationsExercises\P01_StudentSystem\obj\Debug\netcoreapp2.1\P01_StudentSystem.AssemblyInfo.cs
+D:\07.SoftUni-CSharpDBFundamentals\02. Databases Advanced - Entity Framework - 05. Entity Relations\Exercises\EntityRelationsExercises\P01_StudentSystem\bin\Debug\netcoreapp2.1\P01_StudentSystem.pdb
+D:\07.SoftUni-CSharpDBFundamentals\02. Databases Advanced - Entity Framework - 05. Entity Relations\Exercises\EntityRelationsExercises\P01_StudentSystem\obj\Debug\netcoreapp2.1\P01_StudentSystem.dll
+D:\07.SoftUni-CSharpDBFundamentals\02. Databases Advanced - Entity Framework - 05. Entity Relations\Exercises\EntityRelationsExercises\P01_StudentSystem\obj\Debug\netcoreapp2.1\P01_StudentSystem.pdb
+D:\07.SoftUni-CSharpDBFundamentals\02. Databases Advanced - Entity Framework - 05. Entity Relations\Exercises\EntityRelationsExercises\P01_StudentSystem\obj\Debug\netcoreapp2.1\P01_StudentSystem.csprojAssemblyReference.cache

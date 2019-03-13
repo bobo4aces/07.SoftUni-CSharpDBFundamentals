@@ -1,0 +1,11 @@
+D:\07.SoftUni-CSharpDBFundamentals\02. Databases Advanced - Entity Framework - 04. Code-First\Exercises\CodeFirstExercises\P03_SalesDatabase\bin\Debug\netcoreapp2.1\P03_SalesDatabase.deps.json
+D:\07.SoftUni-CSharpDBFundamentals\02. Databases Advanced - Entity Framework - 04. Code-First\Exercises\CodeFirstExercises\P03_SalesDatabase\bin\Debug\netcoreapp2.1\P03_SalesDatabase.runtimeconfig.json
+D:\07.SoftUni-CSharpDBFundamentals\02. Databases Advanced - Entity Framework - 04. Code-First\Exercises\CodeFirstExercises\P03_SalesDatabase\bin\Debug\netcoreapp2.1\P03_SalesDatabase.runtimeconfig.dev.json
+D:\07.SoftUni-CSharpDBFundamentals\02. Databases Advanced - Entity Framework - 04. Code-First\Exercises\CodeFirstExercises\P03_SalesDatabase\bin\Debug\netcoreapp2.1\P03_SalesDatabase.dll
+D:\07.SoftUni-CSharpDBFundamentals\02. Databases Advanced - Entity Framework - 04. Code-First\Exercises\CodeFirstExercises\P03_SalesDatabase\obj\Debug\netcoreapp2.1\P03_SalesDatabase.csprojAssemblyReference.cache
+D:\07.SoftUni-CSharpDBFundamentals\02. Databases Advanced - Entity Framework - 04. Code-First\Exercises\CodeFirstExercises\P03_SalesDatabase\obj\Debug\netcoreapp2.1\P03_SalesDatabase.csproj.CoreCompileInputs.cache
+D:\07.SoftUni-CSharpDBFundamentals\02. Databases Advanced - Entity Framework - 04. Code-First\Exercises\CodeFirstExercises\P03_SalesDatabase\obj\Debug\netcoreapp2.1\P03_SalesDatabase.AssemblyInfoInputs.cache
+D:\07.SoftUni-CSharpDBFundamentals\02. Databases Advanced - Entity Framework - 04. Code-First\Exercises\CodeFirstExercises\P03_SalesDatabase\obj\Debug\netcoreapp2.1\P03_SalesDatabase.AssemblyInfo.cs
+D:\07.SoftUni-CSharpDBFundamentals\02. Databases Advanced - Entity Framework - 04. Code-First\Exercises\CodeFirstExercises\P03_SalesDatabase\bin\Debug\netcoreapp2.1\P03_SalesDatabase.pdb
+D:\07.SoftUni-CSharpDBFundamentals\02. Databases Advanced - Entity Framework - 04. Code-First\Exercises\CodeFirstExercises\P03_SalesDatabase\obj\Debug\netcoreapp2.1\P03_SalesDatabase.dll
+D:\07.SoftUni-CSharpDBFundamentals\02. Databases Advanced - Entity Framework - 04. Code-First\Exercises\CodeFirstExercises\P03_SalesDatabase\obj\Debug\netcoreapp2.1\P03_SalesDatabase.pdb

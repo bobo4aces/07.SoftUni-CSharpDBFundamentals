@@ -1,0 +1,11 @@
+D:\07.SoftUni-CSharpDBFundamentals\02. Databases Advanced - Entity Framework - 03. Introduction To Entity Framework\Exercises\EFExercises\EFExercises\bin\Debug\netcoreapp2.1\SoftUni.deps.json
+D:\07.SoftUni-CSharpDBFundamentals\02. Databases Advanced - Entity Framework - 03. Introduction To Entity Framework\Exercises\EFExercises\EFExercises\bin\Debug\netcoreapp2.1\SoftUni.runtimeconfig.json
+D:\07.SoftUni-CSharpDBFundamentals\02. Databases Advanced - Entity Framework - 03. Introduction To Entity Framework\Exercises\EFExercises\EFExercises\bin\Debug\netcoreapp2.1\SoftUni.runtimeconfig.dev.json
+D:\07.SoftUni-CSharpDBFundamentals\02. Databases Advanced - Entity Framework - 03. Introduction To Entity Framework\Exercises\EFExercises\EFExercises\bin\Debug\netcoreapp2.1\SoftUni.dll
+D:\07.SoftUni-CSharpDBFundamentals\02. Databases Advanced - Entity Framework - 03. Introduction To Entity Framework\Exercises\EFExercises\EFExercises\bin\Debug\netcoreapp2.1\SoftUni.pdb
+D:\07.SoftUni-CSharpDBFundamentals\02. Databases Advanced - Entity Framework - 03. Introduction To Entity Framework\Exercises\EFExercises\EFExercises\obj\Debug\netcoreapp2.1\SoftUni.csprojAssemblyReference.cache
+D:\07.SoftUni-CSharpDBFundamentals\02. Databases Advanced - Entity Framework - 03. Introduction To Entity Framework\Exercises\EFExercises\EFExercises\obj\Debug\netcoreapp2.1\SoftUni.csproj.CoreCompileInputs.cache
+D:\07.SoftUni-CSharpDBFundamentals\02. Databases Advanced - Entity Framework - 03. Introduction To Entity Framework\Exercises\EFExercises\EFExercises\obj\Debug\netcoreapp2.1\SoftUni.AssemblyInfoInputs.cache
+D:\07.SoftUni-CSharpDBFundamentals\02. Databases Advanced - Entity Framework - 03. Introduction To Entity Framework\Exercises\EFExercises\EFExercises\obj\Debug\netcoreapp2.1\SoftUni.AssemblyInfo.cs
+D:\07.SoftUni-CSharpDBFundamentals\02. Databases Advanced - Entity Framework - 03. Introduction To Entity Framework\Exercises\EFExercises\EFExercises\obj\Debug\netcoreapp2.1\SoftUni.dll
+D:\07.SoftUni-CSharpDBFundamentals\02. Databases Advanced - Entity Framework - 03. Introduction To Entity Framework\Exercises\EFExercises\EFExercises\obj\Debug\netcoreapp2.1\SoftUni.pdb
