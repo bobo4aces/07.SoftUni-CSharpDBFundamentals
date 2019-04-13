@@ -1,0 +1,11 @@
+D:\07.SoftUni-CSharpDBFundamentals\02. Databases Advanced - Entity Framework - 11. XML Processing\Exercises\ProductShop\ProductShop\bin\Debug\netcoreapp2.1\ProductShop.deps.json
+D:\07.SoftUni-CSharpDBFundamentals\02. Databases Advanced - Entity Framework - 11. XML Processing\Exercises\ProductShop\ProductShop\bin\Debug\netcoreapp2.1\ProductShop.runtimeconfig.json
+D:\07.SoftUni-CSharpDBFundamentals\02. Databases Advanced - Entity Framework - 11. XML Processing\Exercises\ProductShop\ProductShop\bin\Debug\netcoreapp2.1\ProductShop.runtimeconfig.dev.json
+D:\07.SoftUni-CSharpDBFundamentals\02. Databases Advanced - Entity Framework - 11. XML Processing\Exercises\ProductShop\ProductShop\bin\Debug\netcoreapp2.1\ProductShop.dll
+D:\07.SoftUni-CSharpDBFundamentals\02. Databases Advanced - Entity Framework - 11. XML Processing\Exercises\ProductShop\ProductShop\bin\Debug\netcoreapp2.1\ProductShop.pdb
+D:\07.SoftUni-CSharpDBFundamentals\02. Databases Advanced - Entity Framework - 11. XML Processing\Exercises\ProductShop\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.csprojAssemblyReference.cache
+D:\07.SoftUni-CSharpDBFundamentals\02. Databases Advanced - Entity Framework - 11. XML Processing\Exercises\ProductShop\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.csproj.CoreCompileInputs.cache
+D:\07.SoftUni-CSharpDBFundamentals\02. Databases Advanced - Entity Framework - 11. XML Processing\Exercises\ProductShop\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.AssemblyInfoInputs.cache
+D:\07.SoftUni-CSharpDBFundamentals\02. Databases Advanced - Entity Framework - 11. XML Processing\Exercises\ProductShop\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.AssemblyInfo.cs
+D:\07.SoftUni-CSharpDBFundamentals\02. Databases Advanced - Entity Framework - 11. XML Processing\Exercises\ProductShop\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.dll
+D:\07.SoftUni-CSharpDBFundamentals\02. Databases Advanced - Entity Framework - 11. XML Processing\Exercises\ProductShop\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.pdb

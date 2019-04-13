@@ -1,0 +1,11 @@
+D:\07.SoftUni-CSharpDBFundamentals\02. Databases Advanced - Entity Framework - 00. My Exam\01. Model Definition _Skeleton + Datasets\Cinema\Cinema\bin\Debug\netcoreapp2.1\Cinema.deps.json
+D:\07.SoftUni-CSharpDBFundamentals\02. Databases Advanced - Entity Framework - 00. My Exam\01. Model Definition _Skeleton + Datasets\Cinema\Cinema\bin\Debug\netcoreapp2.1\Cinema.runtimeconfig.json
+D:\07.SoftUni-CSharpDBFundamentals\02. Databases Advanced - Entity Framework - 00. My Exam\01. Model Definition _Skeleton + Datasets\Cinema\Cinema\bin\Debug\netcoreapp2.1\Cinema.runtimeconfig.dev.json
+D:\07.SoftUni-CSharpDBFundamentals\02. Databases Advanced - Entity Framework - 00. My Exam\01. Model Definition _Skeleton + Datasets\Cinema\Cinema\bin\Debug\netcoreapp2.1\Cinema.dll
+D:\07.SoftUni-CSharpDBFundamentals\02. Databases Advanced - Entity Framework - 00. My Exam\01. Model Definition _Skeleton + Datasets\Cinema\Cinema\bin\Debug\netcoreapp2.1\Cinema.pdb
+D:\07.SoftUni-CSharpDBFundamentals\02. Databases Advanced - Entity Framework - 00. My Exam\01. Model Definition _Skeleton + Datasets\Cinema\Cinema\obj\Debug\netcoreapp2.1\Cinema.csprojAssemblyReference.cache
+D:\07.SoftUni-CSharpDBFundamentals\02. Databases Advanced - Entity Framework - 00. My Exam\01. Model Definition _Skeleton + Datasets\Cinema\Cinema\obj\Debug\netcoreapp2.1\Cinema.csproj.CoreCompileInputs.cache
+D:\07.SoftUni-CSharpDBFundamentals\02. Databases Advanced - Entity Framework - 00. My Exam\01. Model Definition _Skeleton + Datasets\Cinema\Cinema\obj\Debug\netcoreapp2.1\Cinema.AssemblyInfoInputs.cache
+D:\07.SoftUni-CSharpDBFundamentals\02. Databases Advanced - Entity Framework - 00. My Exam\01. Model Definition _Skeleton + Datasets\Cinema\Cinema\obj\Debug\netcoreapp2.1\Cinema.AssemblyInfo.cs
+D:\07.SoftUni-CSharpDBFundamentals\02. Databases Advanced - Entity Framework - 00. My Exam\01. Model Definition _Skeleton + Datasets\Cinema\Cinema\obj\Debug\netcoreapp2.1\Cinema.dll
+D:\07.SoftUni-CSharpDBFundamentals\02. Databases Advanced - Entity Framework - 00. My Exam\01. Model Definition _Skeleton + Datasets\Cinema\Cinema\obj\Debug\netcoreapp2.1\Cinema.pdb

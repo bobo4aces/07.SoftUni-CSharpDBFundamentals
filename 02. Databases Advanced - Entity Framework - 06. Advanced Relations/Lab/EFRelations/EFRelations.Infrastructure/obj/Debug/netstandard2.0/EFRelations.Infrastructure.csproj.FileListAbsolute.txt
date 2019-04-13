@@ -1,0 +1,9 @@
+C:\Users\stamo\Documents\Visual Studio 2017\Projects\EFRelations\EFRelations.Infrastructure\bin\Debug\netstandard2.0\EFRelations.Infrastructure.deps.json
+C:\Users\stamo\Documents\Visual Studio 2017\Projects\EFRelations\EFRelations.Infrastructure\bin\Debug\netstandard2.0\EFRelations.Infrastructure.dll
+C:\Users\stamo\Documents\Visual Studio 2017\Projects\EFRelations\EFRelations.Infrastructure\obj\Debug\netstandard2.0\EFRelations.Infrastructure.csprojAssemblyReference.cache
+C:\Users\stamo\Documents\Visual Studio 2017\Projects\EFRelations\EFRelations.Infrastructure\obj\Debug\netstandard2.0\EFRelations.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\stamo\Documents\Visual Studio 2017\Projects\EFRelations\EFRelations.Infrastructure\obj\Debug\netstandard2.0\EFRelations.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\stamo\Documents\Visual Studio 2017\Projects\EFRelations\EFRelations.Infrastructure\obj\Debug\netstandard2.0\EFRelations.Infrastructure.AssemblyInfo.cs
+C:\Users\stamo\Documents\Visual Studio 2017\Projects\EFRelations\EFRelations.Infrastructure\bin\Debug\netstandard2.0\EFRelations.Infrastructure.pdb
+C:\Users\stamo\Documents\Visual Studio 2017\Projects\EFRelations\EFRelations.Infrastructure\obj\Debug\netstandard2.0\EFRelations.Infrastructure.dll
+C:\Users\stamo\Documents\Visual Studio 2017\Projects\EFRelations\EFRelations.Infrastructure\obj\Debug\netstandard2.0\EFRelations.Infrastructure.pdb

@@ -1,0 +1,36 @@
+D:\07.SoftUni-CSharpDBFundamentals\02. Databases Advanced - Entity Framework - 07. Advanced Querying\Exercises\New folder\BookShop\BookShop\bin\Debug\netcoreapp2.0\BookShop.deps.json
+D:\07.SoftUni-CSharpDBFundamentals\02. Databases Advanced - Entity Framework - 07. Advanced Querying\Exercises\New folder\BookShop\BookShop\bin\Debug\netcoreapp2.0\BookShop.runtimeconfig.json
+D:\07.SoftUni-CSharpDBFundamentals\02. Databases Advanced - Entity Framework - 07. Advanced Querying\Exercises\New folder\BookShop\BookShop\bin\Debug\netcoreapp2.0\BookShop.runtimeconfig.dev.json
+D:\07.SoftUni-CSharpDBFundamentals\02. Databases Advanced - Entity Framework - 07. Advanced Querying\Exercises\New folder\BookShop\BookShop\bin\Debug\netcoreapp2.0\BookShop.dll
+D:\07.SoftUni-CSharpDBFundamentals\02. Databases Advanced - Entity Framework - 07. Advanced Querying\Exercises\New folder\BookShop\BookShop\bin\Debug\netcoreapp2.0\BookShop.pdb
+D:\07.SoftUni-CSharpDBFundamentals\02. Databases Advanced - Entity Framework - 07. Advanced Querying\Exercises\New folder\BookShop\BookShop\bin\Debug\netcoreapp2.0\BookShop.Data.dll
+D:\07.SoftUni-CSharpDBFundamentals\02. Databases Advanced - Entity Framework - 07. Advanced Querying\Exercises\New folder\BookShop\BookShop\bin\Debug\netcoreapp2.0\BookShop.Initializer.dll
+D:\07.SoftUni-CSharpDBFundamentals\02. Databases Advanced - Entity Framework - 07. Advanced Querying\Exercises\New folder\BookShop\BookShop\bin\Debug\netcoreapp2.0\BookShop.Models.dll
+D:\07.SoftUni-CSharpDBFundamentals\02. Databases Advanced - Entity Framework - 07. Advanced Querying\Exercises\New folder\BookShop\BookShop\bin\Debug\netcoreapp2.0\BookShop.Data.pdb
+D:\07.SoftUni-CSharpDBFundamentals\02. Databases Advanced - Entity Framework - 07. Advanced Querying\Exercises\New folder\BookShop\BookShop\bin\Debug\netcoreapp2.0\BookShop.Initializer.pdb
+D:\07.SoftUni-CSharpDBFundamentals\02. Databases Advanced - Entity Framework - 07. Advanced Querying\Exercises\New folder\BookShop\BookShop\bin\Debug\netcoreapp2.0\BookShop.Models.pdb
+D:\07.SoftUni-CSharpDBFundamentals\02. Databases Advanced - Entity Framework - 07. Advanced Querying\Exercises\New folder\BookShop\BookShop\obj\Debug\netcoreapp2.0\BookShop.csprojAssemblyReference.cache
+D:\07.SoftUni-CSharpDBFundamentals\02. Databases Advanced - Entity Framework - 07. Advanced Querying\Exercises\New folder\BookShop\BookShop\obj\Debug\netcoreapp2.0\BookShop.csproj.CoreCompileInputs.cache
+D:\07.SoftUni-CSharpDBFundamentals\02. Databases Advanced - Entity Framework - 07. Advanced Querying\Exercises\New folder\BookShop\BookShop\obj\Debug\netcoreapp2.0\BookShop.AssemblyInfoInputs.cache
+D:\07.SoftUni-CSharpDBFundamentals\02. Databases Advanced - Entity Framework - 07. Advanced Querying\Exercises\New folder\BookShop\BookShop\obj\Debug\netcoreapp2.0\BookShop.AssemblyInfo.cs
+D:\07.SoftUni-CSharpDBFundamentals\02. Databases Advanced - Entity Framework - 07. Advanced Querying\Exercises\New folder\BookShop\BookShop\obj\Debug\netcoreapp2.0\BookShop.csproj.CopyComplete
+D:\07.SoftUni-CSharpDBFundamentals\02. Databases Advanced - Entity Framework - 07. Advanced Querying\Exercises\New folder\BookShop\BookShop\obj\Debug\netcoreapp2.0\BookShop.dll
+D:\07.SoftUni-CSharpDBFundamentals\02. Databases Advanced - Entity Framework - 07. Advanced Querying\Exercises\New folder\BookShop\BookShop\obj\Debug\netcoreapp2.0\BookShop.pdb
+D:\07.SoftUni-CSharpDBFundamentals\02. Databases Advanced - Entity Framework - 07. Advanced Querying\Exercises\BookShop\BookShop\bin\Debug\netcoreapp2.0\BookShop.deps.json
+D:\07.SoftUni-CSharpDBFundamentals\02. Databases Advanced - Entity Framework - 07. Advanced Querying\Exercises\BookShop\BookShop\bin\Debug\netcoreapp2.0\BookShop.runtimeconfig.json
+D:\07.SoftUni-CSharpDBFundamentals\02. Databases Advanced - Entity Framework - 07. Advanced Querying\Exercises\BookShop\BookShop\bin\Debug\netcoreapp2.0\BookShop.runtimeconfig.dev.json
+D:\07.SoftUni-CSharpDBFundamentals\02. Databases Advanced - Entity Framework - 07. Advanced Querying\Exercises\BookShop\BookShop\bin\Debug\netcoreapp2.0\BookShop.dll
+D:\07.SoftUni-CSharpDBFundamentals\02. Databases Advanced - Entity Framework - 07. Advanced Querying\Exercises\BookShop\BookShop\bin\Debug\netcoreapp2.0\BookShop.pdb
+D:\07.SoftUni-CSharpDBFundamentals\02. Databases Advanced - Entity Framework - 07. Advanced Querying\Exercises\BookShop\BookShop\bin\Debug\netcoreapp2.0\BookShop.Data.dll
+D:\07.SoftUni-CSharpDBFundamentals\02. Databases Advanced - Entity Framework - 07. Advanced Querying\Exercises\BookShop\BookShop\bin\Debug\netcoreapp2.0\BookShop.Initializer.dll
+D:\07.SoftUni-CSharpDBFundamentals\02. Databases Advanced - Entity Framework - 07. Advanced Querying\Exercises\BookShop\BookShop\bin\Debug\netcoreapp2.0\BookShop.Models.dll
+D:\07.SoftUni-CSharpDBFundamentals\02. Databases Advanced - Entity Framework - 07. Advanced Querying\Exercises\BookShop\BookShop\bin\Debug\netcoreapp2.0\BookShop.Data.pdb
+D:\07.SoftUni-CSharpDBFundamentals\02. Databases Advanced - Entity Framework - 07. Advanced Querying\Exercises\BookShop\BookShop\bin\Debug\netcoreapp2.0\BookShop.Initializer.pdb
+D:\07.SoftUni-CSharpDBFundamentals\02. Databases Advanced - Entity Framework - 07. Advanced Querying\Exercises\BookShop\BookShop\bin\Debug\netcoreapp2.0\BookShop.Models.pdb
+D:\07.SoftUni-CSharpDBFundamentals\02. Databases Advanced - Entity Framework - 07. Advanced Querying\Exercises\BookShop\BookShop\obj\Debug\netcoreapp2.0\BookShop.csprojAssemblyReference.cache
+D:\07.SoftUni-CSharpDBFundamentals\02. Databases Advanced - Entity Framework - 07. Advanced Querying\Exercises\BookShop\BookShop\obj\Debug\netcoreapp2.0\BookShop.csproj.CoreCompileInputs.cache
+D:\07.SoftUni-CSharpDBFundamentals\02. Databases Advanced - Entity Framework - 07. Advanced Querying\Exercises\BookShop\BookShop\obj\Debug\netcoreapp2.0\BookShop.AssemblyInfoInputs.cache
+D:\07.SoftUni-CSharpDBFundamentals\02. Databases Advanced - Entity Framework - 07. Advanced Querying\Exercises\BookShop\BookShop\obj\Debug\netcoreapp2.0\BookShop.AssemblyInfo.cs
+D:\07.SoftUni-CSharpDBFundamentals\02. Databases Advanced - Entity Framework - 07. Advanced Querying\Exercises\BookShop\BookShop\obj\Debug\netcoreapp2.0\BookShop.csproj.CopyComplete
+D:\07.SoftUni-CSharpDBFundamentals\02. Databases Advanced - Entity Framework - 07. Advanced Querying\Exercises\BookShop\BookShop\obj\Debug\netcoreapp2.0\BookShop.dll
+D:\07.SoftUni-CSharpDBFundamentals\02. Databases Advanced - Entity Framework - 07. Advanced Querying\Exercises\BookShop\BookShop\obj\Debug\netcoreapp2.0\BookShop.pdb

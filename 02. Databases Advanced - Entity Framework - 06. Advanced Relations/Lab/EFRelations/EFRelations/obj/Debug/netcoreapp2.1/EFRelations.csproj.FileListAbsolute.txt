@@ -1,0 +1,14 @@
+C:\Users\stamo\Documents\Visual Studio 2017\Projects\EFRelations\EFRelations\bin\Debug\netcoreapp2.1\EFRelations.deps.json
+C:\Users\stamo\Documents\Visual Studio 2017\Projects\EFRelations\EFRelations\bin\Debug\netcoreapp2.1\EFRelations.runtimeconfig.json
+C:\Users\stamo\Documents\Visual Studio 2017\Projects\EFRelations\EFRelations\bin\Debug\netcoreapp2.1\EFRelations.runtimeconfig.dev.json
+C:\Users\stamo\Documents\Visual Studio 2017\Projects\EFRelations\EFRelations\bin\Debug\netcoreapp2.1\EFRelations.dll
+C:\Users\stamo\Documents\Visual Studio 2017\Projects\EFRelations\EFRelations\obj\Debug\netcoreapp2.1\EFRelations.csprojAssemblyReference.cache
+C:\Users\stamo\Documents\Visual Studio 2017\Projects\EFRelations\EFRelations\obj\Debug\netcoreapp2.1\EFRelations.csproj.CoreCompileInputs.cache
+C:\Users\stamo\Documents\Visual Studio 2017\Projects\EFRelations\EFRelations\obj\Debug\netcoreapp2.1\EFRelations.AssemblyInfoInputs.cache
+C:\Users\stamo\Documents\Visual Studio 2017\Projects\EFRelations\EFRelations\obj\Debug\netcoreapp2.1\EFRelations.AssemblyInfo.cs
+C:\Users\stamo\Documents\Visual Studio 2017\Projects\EFRelations\EFRelations\bin\Debug\netcoreapp2.1\EFRelations.pdb
+C:\Users\stamo\Documents\Visual Studio 2017\Projects\EFRelations\EFRelations\bin\Debug\netcoreapp2.1\EFRelations.Infrastructure.dll
+C:\Users\stamo\Documents\Visual Studio 2017\Projects\EFRelations\EFRelations\bin\Debug\netcoreapp2.1\EFRelations.Infrastructure.pdb
+C:\Users\stamo\Documents\Visual Studio 2017\Projects\EFRelations\EFRelations\obj\Debug\netcoreapp2.1\EFRelations.csproj.CopyComplete
+C:\Users\stamo\Documents\Visual Studio 2017\Projects\EFRelations\EFRelations\obj\Debug\netcoreapp2.1\EFRelations.dll
+C:\Users\stamo\Documents\Visual Studio 2017\Projects\EFRelations\EFRelations\obj\Debug\netcoreapp2.1\EFRelations.pdb

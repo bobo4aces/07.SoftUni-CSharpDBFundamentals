@@ -1,0 +1,11 @@
+D:\07.SoftUni-CSharpDBFundamentals\02. Databases Advanced - Entity Framework - 99. Exams\2018.08.12\01. Model Definition_Skeleton and Datasets\SoftJail\bin\Debug\netcoreapp2.0\SoftJail.deps.json
+D:\07.SoftUni-CSharpDBFundamentals\02. Databases Advanced - Entity Framework - 99. Exams\2018.08.12\01. Model Definition_Skeleton and Datasets\SoftJail\bin\Debug\netcoreapp2.0\SoftJail.runtimeconfig.json
+D:\07.SoftUni-CSharpDBFundamentals\02. Databases Advanced - Entity Framework - 99. Exams\2018.08.12\01. Model Definition_Skeleton and Datasets\SoftJail\bin\Debug\netcoreapp2.0\SoftJail.runtimeconfig.dev.json
+D:\07.SoftUni-CSharpDBFundamentals\02. Databases Advanced - Entity Framework - 99. Exams\2018.08.12\01. Model Definition_Skeleton and Datasets\SoftJail\bin\Debug\netcoreapp2.0\SoftJail.dll
+D:\07.SoftUni-CSharpDBFundamentals\02. Databases Advanced - Entity Framework - 99. Exams\2018.08.12\01. Model Definition_Skeleton and Datasets\SoftJail\bin\Debug\netcoreapp2.0\SoftJail.pdb
+D:\07.SoftUni-CSharpDBFundamentals\02. Databases Advanced - Entity Framework - 99. Exams\2018.08.12\01. Model Definition_Skeleton and Datasets\SoftJail\obj\Debug\netcoreapp2.0\SoftJail.csprojAssemblyReference.cache
+D:\07.SoftUni-CSharpDBFundamentals\02. Databases Advanced - Entity Framework - 99. Exams\2018.08.12\01. Model Definition_Skeleton and Datasets\SoftJail\obj\Debug\netcoreapp2.0\SoftJail.csproj.CoreCompileInputs.cache
+D:\07.SoftUni-CSharpDBFundamentals\02. Databases Advanced - Entity Framework - 99. Exams\2018.08.12\01. Model Definition_Skeleton and Datasets\SoftJail\obj\Debug\netcoreapp2.0\SoftJail.AssemblyInfoInputs.cache
+D:\07.SoftUni-CSharpDBFundamentals\02. Databases Advanced - Entity Framework - 99. Exams\2018.08.12\01. Model Definition_Skeleton and Datasets\SoftJail\obj\Debug\netcoreapp2.0\SoftJail.AssemblyInfo.cs
+D:\07.SoftUni-CSharpDBFundamentals\02. Databases Advanced - Entity Framework - 99. Exams\2018.08.12\01. Model Definition_Skeleton and Datasets\SoftJail\obj\Debug\netcoreapp2.0\SoftJail.dll
+D:\07.SoftUni-CSharpDBFundamentals\02. Databases Advanced - Entity Framework - 99. Exams\2018.08.12\01. Model Definition_Skeleton and Datasets\SoftJail\obj\Debug\netcoreapp2.0\SoftJail.pdb
